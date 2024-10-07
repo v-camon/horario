@@ -67,6 +67,7 @@
 
 .extern {
   color: wheat;
+  text-decoration: none;
 }
 
 td:not(.empty) {
