@@ -13,7 +13,6 @@
 .break {
   color: white;
   font-size: 150%;
-  
 }
 
 .table_1 {
@@ -22,79 +21,64 @@
   border-spacing: 5;
 }
 
-
 .body {
   background-color: #2c2c2c;
 }
 
-
 .data_bases {
-  color: #FFB347 ;
-
+  color: #ffb347;
 }
 
 .cyber {
-  color:  #b2faf7;
+  color: #b2faf7;
 }
 
 .pax {
-  color: #C23B22;
- 
+  color: #c23b22;
 }
 
 .fm {
   color: #f7fab2;
-  
 }
 
 .is {
   color: #b6fab2;
-  
 }
 
 .digi {
   color: #b2b6fa;
- 
 }
 
 .tuto {
   color: white;
- 
 }
 
 .ipoi {
   color: #475764;
- 
 }
 
 .ll {
   color: #f6b2fa;
- 
 }
 
 .iaw {
   color: #f6b2fa;
-  
-
 }
 
-
-.isard{
+.extern {
   color: wheat;
 }
 
-
-td:not(.empty){
+td:not(.empty) {
   text-align: center;
-  
+
   background-color: black;
 }
 
-a{
+a {
   text-decoration: none;
   font-size: 150%;
 }
 
 .empty {
-  
 }
