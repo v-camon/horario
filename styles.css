@@ -1,3 +1,12 @@
+.icons{
+  height: 10%;
+  width: 10%;
+}
+
+*{
+  font-family: Arial, Helvetica, sans-serif;
+}
+
 .week_days {
   text-align: center;
   color: white;
@@ -49,10 +58,6 @@
   color: #b2b6fa;
 }
 
-.net {
-  color:  #5F89C5;
-}
-
 .tuto {
   color: white;
 }
@@ -71,7 +76,6 @@
 
 .extern {
   color: wheat;
-  text-decoration: none;
 }
 
 td:not(.empty) {
@@ -87,3 +91,5 @@ a {
 
 .empty {
 }
+
+
