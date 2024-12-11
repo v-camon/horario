@@ -21,7 +21,15 @@
 
 .break {
   color: white;
+  font-size: 170%;
+  letter-spacing: 5vh;
+  font-style: bolder;
+}
+
+.break_icon{
+  color: white;
   font-size: 150%;
+  letter-spacing: 5vh;
 }
 
 .table_1 {
