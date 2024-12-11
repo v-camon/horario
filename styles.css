@@ -78,6 +78,11 @@
   color: wheat;
 }
 
+.redhat{
+  color: #EE4E4E;
+}
+
+
 td:not(.empty) {
   text-align: center;
 
@@ -91,5 +96,4 @@ a {
 
 .empty {
 }
-
 
