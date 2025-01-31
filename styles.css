@@ -90,6 +90,10 @@
   color: #EE4E4E;
 }
 
+.localhost{
+  color: #EB8242;
+}
+
 
 td:not(.empty) {
   text-align: center;
