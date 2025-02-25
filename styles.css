@@ -1,9 +1,9 @@
-.icons{
+.icons {
   height: 10%;
   width: 10%;
 }
 
-*{
+* {
   font-family: Arial, Helvetica, sans-serif;
 }
 
@@ -26,7 +26,7 @@
   font-style: bolder;
 }
 
-.break_icon{
+.break_icon {
   color: white;
   font-size: 150%;
   letter-spacing: 5vh;
@@ -58,7 +58,7 @@
   color: #f7fab2;
 }
 
-.is {
+.iso {
   color: #b6fab2;
 }
 
@@ -86,14 +86,13 @@
   color: wheat;
 }
 
-.redhat{
-  color: #EE4E4E;
+.redhat {
+  color: #ee4e4e;
 }
 
-.localhost{
-  color: #EB8242;
+.localhost {
+  color: #fdff8f;
 }
-
 
 td:not(.empty) {
   text-align: center;
@@ -108,4 +107,3 @@ a {
 
 .empty {
 }
-
